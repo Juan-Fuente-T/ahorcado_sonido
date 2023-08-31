@@ -5,9 +5,14 @@
 Este es un juego del ahorcado desarrollado en python. El juego presenta gráficos sencillos de pixel art y efectos de sonido para brindar una experiencia divertida y nostálgica.
 
 ## Capturas de pantalla
+![CapturaAhorcado1](https://github.com/Juan-Fuente-T/ahorcado_sonido/assets/127140423/a9976a1b-84d9-41af-86d0-69550db7fe5d)
 
-![Captura de pantalla 1](screenshot1.png)
-![Captura de pantalla 2](screenshot2.png)
+![CapturaAhorcado2](https://github.com/Juan-Fuente-T/ahorcado_sonido/assets/127140423/daf7038e-4b92-4946-944f-9fa2490ff954)
+
+![CapturaAhorcado3](https://github.com/Juan-Fuente-T/ahorcado_sonido/assets/127140423/53290b0b-f89f-4f3a-8cab-a129e9e5d495)
+
+
+
 
 ## Instalación
 
