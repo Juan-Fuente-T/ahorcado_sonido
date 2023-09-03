@@ -2,7 +2,7 @@
 
 # Juego del Ahorcado
 
-Este es un juego del ahorcado desarrollado en python. El juego presenta gráficos sencillos de pixel art y efectos de sonido para brindar una experiencia divertida y nostálgica.
+Este es un juego del ahorcado desarrollado en python. El juego presenta gráficos sencillos de pixel art y efectos de sonido para brindar una experiencia divertida y nostálgica. Viene acompañado de sonidos que acompañan a los momentos importante del juego y lo hacen mucho más divertido.
 
 ## Capturas de pantalla
 ![CapturaAhorcado1](https://github.com/Juan-Fuente-T/ahorcado_sonido/assets/127140423/a9976a1b-84d9-41af-86d0-69550db7fe5d)
@@ -19,9 +19,9 @@ Este es un juego del ahorcado desarrollado en python. El juego presenta gráfico
 1. Clona este repositorio en tu máquina local:
 git clone https://github.com/tu-usuario/ahorcado_sonido.git
 
-2.Activa tus altavoces. 
+2. Activa tus altavoces. 
 
-3.Abre el archivo con ti IDE favorido, por ejemplo VSCode y haz correr el programa. Si lo haces con VSCode puedes hacerlo con Ctrl + F5. 
+3. Abre el archivo con ti IDE favorido, por ejemplo VSCode y haz correr el programa. Si lo haces con VSCode puedes hacerlo con Ctrl + F5 o con el comando **python ahorcado.0.2.0.sonido.py**. 
 
 ## Características
 
